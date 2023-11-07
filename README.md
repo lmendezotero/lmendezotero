@@ -1,4 +1,14 @@
-### Hi there, I am Lorena Méndez! 👋
+## Hi there, I am Lorena Méndez! 🙋🏻‍♀️
+
+- 🔭 I’m currently working in the company Business Analytics Partners SL.
+- 🌱 I’m a PhD student at the University of A Coruña and the program focuses on applying AI algorithms to economic data.
+- 👯 I’m looking to collaborate with people con data social projects.
+- ⚡ Fun fact: I love reading and knitting in free time 😁
+
+### Contact with me:
+
+
+### Languages and Tools:
 
 <!--
 **lmendezotero/lmendezotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
