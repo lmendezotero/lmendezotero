@@ -6,9 +6,17 @@
 - ⚡ Fun fact: I love reading and knitting in free time 😁
 
 ### Contact with me:
+Perfil de Linkeding: [in/lorenamendezotero](https://www.linkedin.com/in/lorenamendezotero/)
+
+📧 Email: lmendezotero59@gmail.com
+
+[![View on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana)
 
 
-### Languages and Tools:
+### Languages, Skills and Tools:
+- Lenguages: Python, R and SQL.
+- Tools: Visual Studio Code for code edditing.
+
 
 <!--
 **lmendezotero/lmendezotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
