@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I love reading and knitting in free time 😁
 
 ### Contact with me:
-🌐
-Linkedin Profile: [in/lorenamendezotero](https://www.linkedin.com/in/lorenamendezotero/)
+
+🌐Linkedin Profile: [in/lorenamendezotero](https://www.linkedin.com/in/lorenamendezotero/)
 
 📧 Email: lmendezotero59@gmail.com
 
