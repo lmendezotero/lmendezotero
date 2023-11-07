@@ -10,9 +10,6 @@ Perfil de Linkeding: [in/lorenamendezotero](https://www.linkedin.com/in/lorename
 
 📧 Email: lmendezotero59@gmail.com
 
-[![View on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana)
-
-
 ### Languages, Skills and Tools:
 - Lenguages: Python, R and SQL.
 - Tools: Visual Studio Code for code edditing.
