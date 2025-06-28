@@ -14,6 +14,7 @@
 ### Languages, Skills and Tools:
 - Lenguages: Python, R and SQL.
 - Tools: Visual Studio Code for code edditing.
+- Data Engineering: Databricks and Microsoft Fabric.
 
 
 <!--
