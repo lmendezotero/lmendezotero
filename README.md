@@ -1,7 +1,8 @@
 ## Hi there, I am Lorena Méndez! 🙋🏻‍♀️
 
-- 🔭 I’m currently working in the company Tokiota SL.
+- 🔭 I’m currently working as a Data Manager in the company Tokiota SL.
 - 🌱 I’m a PhD student at the University of A Coruña and the program focuses on applying AI algorithms to economic data.
+- 🌱 I’m currently learning IA and project management new skills.
 - 👯 I’m looking to collaborate with people con data social projects.
 - ⚡ Fun fact: I love reading and knitting in free time 😁
 
